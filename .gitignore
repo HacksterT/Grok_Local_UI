@@ -1,0 +1,30 @@
+# Environment variables
+.env
+
+# Python virtual environment
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+*.log.*
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Streamlit specific
+.streamlit/secrets.toml
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
